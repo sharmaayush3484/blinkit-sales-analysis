@@ -15,7 +15,7 @@ This project analyzes grocery sales data to discover patterns in product categor
 ## Exploratory Data Analysis (EDA)
 
 ### Sales by Item Type
-![Sales by Item Type](images/itemtype-sales-plot.PNG)
+![Sales by Item Type](images/itemtype-sales-plot.png)
 ### Sales by Fat Content
 ![Fat Content Sales](images/fat-sales-plot.png)
 
@@ -36,12 +36,6 @@ From the analysis, **Household, Dairy, and Starchy Foods** have the highest aver
 Analysis shows that **Regular fat products have slightly higher average sales** compared to Low Fat products.
 ![Fat-Sales](images/itemfat-sales.PNG)
 
-
-## Key Insights
-- Certain product categories generate significantly higher sales.
-- Outlet location type affects total revenue.
-- Low Fat and Regular products show different sales distribution.
-  
 ### Total Sales by Item Type
 The categories generating the **highest overall revenue** are:
 - Fruits and Vegetables
@@ -54,6 +48,13 @@ The categories generating the **highest overall revenue** are:
 
 ###Total Values Count
 ![Total](images/value_count.PNG)
+
+## Key Insights
+- Certain product categories generate significantly higher sales.
+- Outlet location type affects total revenue.
+- Low Fat and Regular products show different sales distribution.
+  
+  
 
 ## Repository Structure
 - **data/** → cleaned dataset  
