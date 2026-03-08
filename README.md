@@ -44,11 +44,11 @@ The categories generating the **highest overall revenue** are:
   
 ![Sum of Sales of Item type](images/sum-item-sales.PNG)
 
-###Totals Outlet Location
+##Totals Outlet Location
 
 ![Sum of Sales of Item type](images/sum-outlet-sales.PNG)
 
-###Total Values Count
+##Total Values Count
 
 ![Total](images/value_count.PNG)
 
