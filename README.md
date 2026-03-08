@@ -26,12 +26,12 @@ This project analyzes grocery sales data to discover patterns in product categor
 ![Outlet Location Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/ce63bf75ca8f4399cc1f2d38db0eb3666eab2801/images/outletloc-salesplot.png)
 
 ## Dashboard
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/dc636f23b149bc0b89cac1f924aa1a1bd273c0cf/images/Capture.PNG)
 
 ### Data Cleaning- Pandas:
-(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/itemtype-sales.PNG)
-(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/Outletloc-sales.PNG)
-(https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/fat-sales-plot.png)
+![Itemype-Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/itemtype-sales.PNG)
+![Outlocation-Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/Outletloc-sales.PNG)
+![Fat-Sales](https://github.com/sharmaayush3484/blinkit-sales-analysis/blob/a0cf1a86d8668e221d5e2e3e5036360906a2f08c/images/fat-sales-plot.png)
 
 
 ## Key Insights
